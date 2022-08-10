@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pottz91
-- 👀 I’m interested in SilverStripe CMS, Electron, PHP, Online Marketing 
+- 👀 I’m interested in SilverStripe CMS, Symfony, Electron, PHP, Online Marketing 
 - 🌱 I’m currently working on Multiple Projects, mainly for the Travel Industrie
 
 Also i do SEO & Online Marketing for Travel KMUs.
@@ -9,6 +9,13 @@ My latest Sidehustle Project is Tariffo.
 I will publish much more in the Future.
 
 Updated: 11.08.2022
+
+## My Favorite Tasks
+- SEO
+- Building Landingpages
+- ADS targeting a High ROAS and make Clients happy
+- And building Websites with Silverstripe CMS
+
 
 
 ## Want to work together?
