@@ -10,7 +10,8 @@ I will publish much more in the Future.
 
 Updated: 11.08.2022
 
-## Contact
+
+## Want to work together?
 
 Feel free to contact me @ christopher@craftconversions.de
 
