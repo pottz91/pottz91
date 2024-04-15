@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @pottz91
-- 👀 I’m interested in SilverStripe CMS,, PHP, Online Marketing 
-- 🌱 I’m currently working on Multiple Projects, mainly for the Travel Industrie
+- 👀 I’m interested in SilverStripe, PHP, Online Marketing & SEO 
+- 🌱 I’m currently working on Multiple Projects
 
-Also i do SEO & Online Marketing for Travel KMUs.
+Also i do SEO & Online Marketing
 
 I will publish much more in the Future.
 
-Updated: 11.08.2022
+Updated: 15.04.2023
 
 ## My Favorite Tasks
 - SEO
@@ -18,11 +18,7 @@ Updated: 11.08.2022
 
 ## Want to work together?
 
-Feel free to contact me @ christopher@craftconversions.de
-
-## Online Marketing Agency
-[craftconversions.de](https://www.craftconversions.de) 
-
+Feel free to contact me @ christopher.potthast@freenet.de
 
 <!---
 pottz91/pottz91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
