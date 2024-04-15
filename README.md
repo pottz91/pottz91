@@ -2,8 +2,6 @@
 - 👀 I’m interested in SilverStripe, PHP, Online Marketing & SEO 
 - 🌱 I’m currently working on Multiple Projects
 
-Also i do SEO & Online Marketing
-
 I will publish much more in the Future.
 
 Updated: 15.04.2023
