@@ -13,11 +13,6 @@ Updated: 15.04.2023
 - And building Websites with Silverstripe CMS
 
 
-
-## Want to work together?
-
-Feel free to contact me @ christopher.potthast@freenet.de
-
 <!---
 pottz91/pottz91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
